@@ -1,4 +1,4 @@
-### checklist
+## checklist
 
 > css
 
@@ -14,3 +14,7 @@ div2 {
        border: 1px solid #DDD;
 }
 ```
+
+> JavaScript / .ts / .jsx
+
+All console.log statements should be cleared before build the application.
